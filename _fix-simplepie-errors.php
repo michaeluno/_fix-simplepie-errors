@@ -1,7 +1,7 @@
 <?php
 /** 
  *  Plugin Name:    Fix - SimplePie Errors
- *  Plugin URI:     http://en.michaeluno.jp/
+ *  Plugin URI:     https://github.com/michaeluno/_fix-simplepie-errors
  *  Description:    Fixes an incompatibility issue of the built-in library, SimplePie 1.3.1, with PHP 7.1 or above.
  *  Author:         Michael Uno
  *  Author URI:     http://en.michaeluno.jp/
