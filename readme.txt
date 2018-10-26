@@ -19,9 +19,9 @@ A temporary fix for an incompatibility issue of the built-in library, SimplePie 
 PHP Warning:  A non-numeric value encountered in .../wp-includes/SimplePie/Parse/Date.php
 `
 
-For details, [see](https://core.trac.wordpress.org/ticket/42515).
+For details, see [here](https://core.trac.wordpress.org/ticket/42515).
 
-So until the issue is fixed in the core, this plugin can be used to avoid the warning for the time being.
+So until the issue is fixed in the core, this plugin can be used to avoid the warnings for the time being.
 
 = Fix =
 Just activate the plugin. 
