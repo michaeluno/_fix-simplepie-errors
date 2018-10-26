@@ -21,7 +21,7 @@ PHP Warning:  A non-numeric value encountered in .../wp-includes/SimplePie/Parse
 
 For details, [see](https://core.trac.wordpress.org/ticket/42515).
 
-So until the issue is fixed in the core, this plugin can be used to avoid the warning for the time bing.
+So until the issue is fixed in the core, this plugin can be used to avoid the warning for the time being.
 
 = Fix =
 Just activate the plugin. 
