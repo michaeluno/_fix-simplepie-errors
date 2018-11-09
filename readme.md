@@ -14,6 +14,6 @@ So until the issue is fixed in the core, this plugin can be used to avoid the wa
 ## Usage
 Just activate the plugin. And the warnings should be gone. 
 
-## Donatiom
-![Thanks for your donation!](http://michaeluno.sakura.ne.jp/apps/images/donation.png "Thanks for your donation")
+## Donation
+<a href="http://en.michaeluno.jp/donate"><img src="http://michaeluno.sakura.ne.jp/apps/images/donation.png" alt="Thanks for your donation!" /></a>
 
