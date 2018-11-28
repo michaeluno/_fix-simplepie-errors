@@ -5,7 +5,7 @@
  *  Description:    Fixes an incompatibility issue of the built-in library, SimplePie 1.3.1, with PHP 7.1 or above.
  *  Author:         Michael Uno
  *  Author URI:     http://en.michaeluno.jp/
- *  Version:        1.0.0
+ *  Version:        1.0.1
  */
 
 if ( class_exists( 'SimplePie' ) ) {
