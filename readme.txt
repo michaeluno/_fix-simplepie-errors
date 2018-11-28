@@ -64,5 +64,8 @@ $second = round($match[6] + (int) $match[7] / pow(10, strlen($match[7])));
 
 == Changelog ==
 
+= 1.0.1 - 11/28/2018 =
+- Fixed a month mapping error.
+
 = 1.0.0 - 10/26/2018 =
-* Released initially.
+- Released initially.

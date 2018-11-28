@@ -173,7 +173,7 @@ class SimplePie_Parse_Date
 		'aug' => 8,
 		'august' => 8,
 		'sep' => 9,
-		'september' => 8,
+		'september' => 9,   // <-- Modified @see https://github.com/michaeluno/_fix-simplepie-errors/issues/1
 		'oct' => 10,
 		'october' => 10,
 		'nov' => 11,
